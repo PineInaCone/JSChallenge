@@ -1,6 +1,11 @@
 # JSChallenge
 30 day challenge 04/23 ~ 05/23! Creating a functioning Script using JSMacros everyday.
 
+
+[Anticheat Compatibility]
+
+No, none of my scripts will be comptabile/undetectable through anticheat. Please refrain from using them for any unauthorized purposes!
+
 [Target Topics/MC Concepts]
 
 1. Interaction Manager
